@@ -1,4 +1,4 @@
-# iris-lda
+# iris-dataset
 Studying LDA classifier on Iris dataset.
 
 Iris Dataset
