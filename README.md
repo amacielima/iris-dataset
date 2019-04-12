@@ -1,7 +1,5 @@
 # iris dataset
 
-Iris Dataset
-
 https://archive.ics.uci.edu/ml/datasets/Iris
 
 Based on the following implementations:
