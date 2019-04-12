@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # iris
 Studying LDA and PCA classifiers on Iris dataset.
+=======
+# iris-dataset
+Studying LDA classifier on Iris dataset.
+>>>>>>> 55575aa291212b9f15fc43dad7ab8a20757ff584
 
 Iris Dataset
 
