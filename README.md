@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # iris dataset
 
 Iris Dataset
